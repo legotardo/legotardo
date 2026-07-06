@@ -17,13 +17,13 @@ I'm Luiz Eduardo, a self-taught Software Developer from Brazil with a deep passi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4,845 hrs 37 mins
+Total Time: 4,852 hrs 1 min
 
-TypeScript                         2,303 hrs 36 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   46.88 %
-Vue.js                             1,193 hrs 38 mins     🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   24.29 %
-JavaScript                         195 hrs 29 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.98 %
-JSON                               181 hrs 27 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.69 %
-Python                             135 hrs 48 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   02.76 %
+TypeScript                         2,309 hrs 12 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   46.93 %
+Vue.js                             1,193 hrs 38 mins     🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   24.26 %
+JavaScript                         195 hrs 29 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.97 %
+JSON                               181 hrs 29 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   03.69 %
+Python                             135 hrs 54 mins       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨   02.76 %
 ```
 
 <!--END_SECTION:waka-->
